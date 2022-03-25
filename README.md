@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalho como FullStack Developer (PHP + JS)
 - 📱  No momento atuo em projetos onde utilizo React JS, TailWind CSS, PHP - Symfony, JQuery e MySQL
 - 📫 Contato: caiosousanl@gmail.com | (61) 98304-2179
-- 🐦 Twitter: https://twitter.com/caios_dev
 - 📧 LinkedIn:https://www.linkedin.com/in/caiosousanl/
 
 <div style="display: inline_block"><br>
